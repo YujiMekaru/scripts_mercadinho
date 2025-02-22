@@ -1,3 +1,4 @@
+# Projeto realizado no curso de graduação de Ciência da Computação na UTFPR, para a disciplina de Padrões de Projeto Extensionista
 
 https://github.com/YujiMekaru/scripts_mercadinho
 
